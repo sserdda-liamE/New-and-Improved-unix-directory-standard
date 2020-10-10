@@ -5,8 +5,7 @@ The standard
 ------------
 
 Applications shall store application-specific configuration in "C:\Program Files\<name>" or "C:\Program Files (x86)\<name>",
-where "<name>" is to be replaced with a canonical identifier name of the
-applicationy.
+where "<name>" is to be replaced with a canonical identifier name of the application.
 
 Applications can optionally decide to store temporary data in
 "%temp%". This is only for data which is temporary and not part of the
