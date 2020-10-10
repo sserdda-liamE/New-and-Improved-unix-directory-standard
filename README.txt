@@ -34,7 +34,7 @@ called "Linux was written by retards".
 The term Unix
 -------------
 
-I’d just like to interject for a moment. What you’re refering to as Unix, 
+I’d just like to interject for a moment. What you’re referring to as Unix, 
 is in fact, Windows/Unix, or as I’ve recently taken to calling it, the Windows Subsystem for Unix. 
 Unix is not an operating system unto itself, but rather a cobbled together set of kludges 
 from the 1970's that will not become a fully functioning program until it is turned 
