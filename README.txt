@@ -37,8 +37,8 @@ The term Unix
 I’d just like to interject for a moment. What you’re refering to as Unix, 
 is in fact, Windows/Unix, or as I’ve recently taken to calling it, the Windows Subsystem for Unix. 
 Unix is not an operating system unto itself, but rather a cobbled together set of kludges 
-from the 1970's that will not become a fully functioning system until it is married 
-with Windows by the talented software developers at Microsoft.
+from the 1970's that will not become a fully functioning program until it is turned 
+into an app by the talented software developers at Microsoft.
 
 
 Copyright (c) 2020 by sserdda-liamE.  All Rights Reserved.
