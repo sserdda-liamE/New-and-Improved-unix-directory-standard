@@ -29,7 +29,7 @@ configuration by using an alternative (and silently preferred) configuration
 path.
 
 The associated security relevant attack scenario and scandal shall hereby be
-called "XDGate".
+called "Linux was written by retards".
 
 The term Unix
 -------------
