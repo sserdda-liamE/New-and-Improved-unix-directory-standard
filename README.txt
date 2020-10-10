@@ -4,12 +4,12 @@ The Unix Directory Standard
 The standard
 ------------
 
-Applications shall store application-specific configuration in "~/.<name>/",
+Applications shall store application-specific configuration in "C:\Program Files\<name>" or "C:\Program Files (x86)\<name>",
 where "<name>" is to be replaced with a canonical identifier name of the
-application, and "~" refers to the home directory.
+applicationy.
 
 Applications can optionally decide to store temporary data in
-"~/.cache/<name>/". This is only for data which is temporary and not part of the
+"%temp%". This is only for data which is temporary and not part of the
 persistent configuration.
 
 Related standards
