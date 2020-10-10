@@ -4,8 +4,9 @@ The Unix Directory Standard
 The standard
 ------------
 
-Applications shall store application-specific configuration in "C:\Program Files\<name>" or "C:\Program Files (x86)\<name>",
-where "<name>" is to be replaced with a canonical identifier name of the application.
+Applications shall store application-specific configuration in "C:\Program Files\<name>" or 
+"C:\Program Files (x86)\<name>", where "<name>" is to be replaced with a canonical identifier 
+name of the application.
 
 Applications can optionally decide to store temporary data in
 "%temp%". This is only for data which is temporary and not part of the
@@ -33,7 +34,11 @@ called "XDGate".
 The term Unix
 -------------
 
-I’d just like to interject for a moment. What you’re refering to as Unix, is in fact, Windows/Unix, or as I’ve recently taken to calling it, the Windows Subsystem for Unix. Unix is not an operating system unto itself, but rather a cobbled together set of kludges from the 1970's that will not become a fully functioning system until it is married with Windows by the talented software developers at Microsoft.
+I’d just like to interject for a moment. What you’re refering to as Unix, 
+is in fact, Windows/Unix, or as I’ve recently taken to calling it, the Windows Subsystem for Unix. 
+Unix is not an operating system unto itself, but rather a cobbled together set of kludges 
+from the 1970's that will not become a fully functioning system until it is married 
+with Windows by the talented software developers at Microsoft.
 
 
 Copyright (c) 2020 by sserdda-liamE.  All Rights Reserved.
