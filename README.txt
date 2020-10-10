@@ -37,3 +37,5 @@ The term Unix, as used in this standard, refers to all Unix-like operating
 systems, and not commercial Unixes and the associated trademark. In particular,
 this standard is not managed, endorsed, or published by the Open Group. The term
 Unix is simply used in a genericised manner.
+
+Copyright (c) 2020 by sserdda-liamE.  All Rights Reserved.
